@@ -1,9 +1,10 @@
 # AI好棒棒（LINE Bot範例）
-# v1 第一版
+
+## v1 第一版
 
 以ine-bot-sdk-php的EchoBot為基礎，修改Route.php，實現偽人工智慧以及自訂歡迎訊息。
 
-## 安裝步驟
+### 安裝步驟
 
 1. 下載LINE官方的PHP SDK及範例程式
 
@@ -23,7 +24,7 @@
 
 5. 更新src/LINEBot/EchoBot/Route.php
 
-## 相關網路資源
+### 相關網路資源
 
 1. [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
 2. [LINE內建貼圖清單](https://devdocs.line.me/files/sticker_list.pdf)
