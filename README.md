@@ -3,7 +3,7 @@
 以ine-bot-sdk-php的EchoBot為基礎，修改Route.php，實現偽人工智慧以及自訂歡迎訊息。
 
 ## 安裝步驟
---
+
 1. 下載LINE官方的PHP SDK及範例程式
 
 `curl -sS https://getcomposer.org/installer | php # Install composer.phar`
@@ -23,4 +23,4 @@
 5. 更新src/LINEBot/EchoBot/Route.php
 
 ##相關網路資源
---
+
