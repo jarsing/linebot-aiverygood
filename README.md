@@ -7,12 +7,14 @@ AI好棒棒（LINE Bot範例）
 安裝步驟
 --
 1. 下載LINE官方的PHP SDK及範例程式
+
 `curl -sS https://getcomposer.org/installer | php # Install composer.phar`
 `./composer.phar require linecorp/line-bot-sdk`
 
 2. 切換到EchoBot範例程式的目錄底下
 
 3. 安裝必要的套件（包括LINE PHP SDK和Slim框架）
+
 `curl -sS https://getcomposer.org/installer | php # Install composer.phar`
 `./composer.phar install`
 
