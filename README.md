@@ -1,4 +1,5 @@
-# AI好棒棒（LINE Bot範例） v1 第一版
+# AI好棒棒（LINE Bot範例）
+# v1 第一版
 
 以ine-bot-sdk-php的EchoBot為基礎，修改Route.php，實現偽人工智慧以及自訂歡迎訊息。
 
@@ -24,5 +25,6 @@
 
 ## 相關網路資源
 
-1. [LINE內建貼圖清單](https://devdocs.line.me/files/sticker_list.pdf)
-2. [LINE內建Emoji顏文字清單](https://developers.line.biz/media/messaging-api/emoji-list.pdf)
+1. [line-bot-sdk-php](https://github.com/line/line-bot-sdk-php)
+2. [LINE內建貼圖清單](https://devdocs.line.me/files/sticker_list.pdf)
+3. [LINE內建Emoji顏文字清單](https://developers.line.biz/media/messaging-api/emoji-list.pdf)
