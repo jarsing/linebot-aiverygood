@@ -22,5 +22,7 @@
 
 5. 更新src/LINEBot/EchoBot/Route.php
 
-##相關網路資源
+## 相關網路資源
 
+1. [LINE內建貼圖清單](https://devdocs.line.me/files/sticker_list.pdf)
+2. [LINE內建Emoji顏文字清單](https://developers.line.biz/media/messaging-api/emoji-list.pdf)
